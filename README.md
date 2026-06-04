@@ -87,8 +87,14 @@ Visão geral:
                        └─────────────────┘
 ```
 
-### Dashboard
-![Lease Dashboard](assets/screenshots/01-lease-dashboard.png)
+### Dashboard Executivo
+![Dashboard Executivo](assets/screenshots/01-dashboard-executivo.png)
+
+### Calculadora de Lease
+![Calculadora de Lease](assets/screenshots/02-calculadora-lease.png)
+
+### Remensuração e Lançamentos
+![Remensuração e Lançamentos](assets/screenshots/03-remensuracao-lancamentos.png)
 
 ---
 
