@@ -139,7 +139,7 @@ O sistema de produção é **proprietário, licenciado comercialmente e confiden
 
 **Fernando Xavier**  
 Finance Executive & AI Solutions Architect  
-ACCA Cert IFR · CFI FMVA · MBA Corporate Finance (FGV, in progress)  
+CRC · ACCA Cert IFR · FMVA (CFI) · MBA Engenharia de Soluções com IA (USP/Esalq, em andamento)  
 São Paulo, BR · PT / EN (C2) / ES (C1)  
 
-[LinkedIn] · fernando@email.com · [fxstudioai.com](https://fxstudioai.com)
+[LinkedIn](https://linkedin.com/in/fernandoxavier02) · contato@fxstudioai.com · [fxstudioai.com](https://fxstudioai.com)

@@ -56,14 +56,13 @@ Satisfação do Auditor:   █████████████████�
 
 ## Screenshots
 
-### Dashboard do Calculador
-![Dashboard](assets/screenshots/01-lease-dashboard.png)
+> As imagens abaixo são geradas sinteticamente para demonstração visual — nenhum dado real de cliente é exposto.
 
-### Amortization Schedule
-![Schedule](assets/screenshots/02-amortization-schedule.png)
+### Dashboard Executivo
+![Dashboard Executivo](assets/screenshots/01-dashboard-executivo.png)
 
-### ROU vs Liability Over Time
-![Chart](assets/screenshots/03-rou-liability-chart.png)
+### Calculadora de Lease
+![Calculadora de Lease](assets/screenshots/02-calculadora-lease.png)
 
-### Stripe Billing Dashboard
-![Billing](assets/screenshots/04-stripe-billing.png)
+### Remensuração e Lançamentos
+![Remensuração e Lançamentos](assets/screenshots/03-remensuracao-lancamentos.png)
