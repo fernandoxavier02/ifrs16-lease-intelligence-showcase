@@ -8,6 +8,10 @@
 
 ---
 
+*Como Head de Contabilidade e Controladoria, liderei iniciativas de automação de leasing e compliance IFRS 16 na operação contábil. Esta vitrine demonstra o domínio do problema e o resultado de negócio — o sistema de produção é proprietário e confidencial.*
+
+---
+
 ## 🎯 O Problema de Negócio
 
 Empresas com múltiplos contratos de arrendamento (imóveis, veículos, equipamentos) enfrentam um desafio contábil complexo desde a adoção do **IFRS 16 / CPC 06 (R2)**:
@@ -39,16 +43,6 @@ Plataforma SaaS completa para **cálculo, gestão e compliance** de contratos de
 | **Categorização** | Imóvel, Veículo, Equipamento, Computadores, Outros | Relatórios por classe de ativo |
 | **SaaS Billing** | Planos Basic/Pro/Enterprise via Stripe | Monetização do produto |
 | **Admin Dashboard** | Gestão de licenças, usuários e assinaturas | Governança centralizada |
-
-### Tecnologia
-
-- **Frontend:** HTML5 + Tailwind CSS + JavaScript ES6+ (Firebase Hosting)
-- **Backend:** Python 3.11 + FastAPI + SQLAlchemy 2.x + Pydantic
-- **Database:** PostgreSQL 14+ (Supabase) com Row-Level Security
-- **Auth:** JWT + controle de acesso por licença
-- **Payments:** Stripe (checkout, webhooks, planos recorrentes)
-- **Deploy:** Firebase Hosting (frontend) + Google Cloud Run (backend)
-- **Observabilidade:** Logs estruturados + métricas de uso
 
 ---
 
@@ -135,10 +129,24 @@ O sistema de produção é **proprietário, licenciado comercialmente e confiden
 
 ---
 
+<details>
+<summary><sub>Stack técnico (para avaliadores técnicos)</sub></summary>
+
+- **Frontend:** HTML5 + Tailwind CSS + JavaScript ES6+ (Firebase Hosting)
+- **Backend:** Python 3.11 + FastAPI + SQLAlchemy 2.x + Pydantic
+- **Database:** PostgreSQL 14+ (Supabase) com Row-Level Security
+- **Auth:** JWT + controle de acesso por licença
+- **Payments:** Stripe (checkout, webhooks, planos recorrentes)
+- **Deploy:** Firebase Hosting (frontend) + Google Cloud Run (backend)
+
+</details>
+
+---
+
 ## 📬 Contato
 
 **Fernando Xavier**  
-Finance Executive & AI Solutions Architect  
+Head of Accounting & Controlling · Finance Executive & Founder @ FX Studio AI  
 CRC · ACCA Cert IFR · FMVA (CFI) · MBA Engenharia de Soluções com IA (USP/Esalq, em andamento)  
 São Paulo, BR · PT / EN (C2) / ES (C1)  
 
